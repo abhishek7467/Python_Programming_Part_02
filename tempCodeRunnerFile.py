@@ -1,0 +1,1 @@
+ print("salary is 100k")
